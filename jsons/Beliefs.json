@@ -1,3 +1,58 @@
 [
+    {
+        "name": "Holy Scribes",
+        "type": "Founder",
+        "uniques": ["[+1 Science] from every [5] global followers [in foreign cities]"]
+    },
+    {
+        "name": "Daily Prayers",
+        "type": "Founder",
+        "uniques": ["[+1 Faith] from every [5] global followers [in all cities]"]
+    },
+      {
+        "name": "Secondary Tithe",
+        "type": "Enhancer",
+        "uniques": ["[+1 Gold] from every [3] global followers [in all cities]"]
+    },
 
+        {
+        "name": "Modesty Standards",
+        "type": "Enhancer",
+        "uniques": ["[+1 Faith] from every [3] global followers [in all cities]"]
+    },
+    {
+        "name": "Church Celebrities",
+        "type": "Enhancer",
+        "uniques": ["[+1 Culture] from every [3] global followers [in all cities]"]
+    },
+      {
+        "name": "Church Experiments",
+        "type": "Enhancer",
+        "uniques": ["[+1 Science] from every [5] global followers [in all cities]"]
+    },
+      {
+        "name": "Harvest Prayers",
+        "type": "Enhancer",
+        "uniques": ["[+2 Faith] from every [Farm]"]
+    },
+      {
+        "name": "Pray for Health",
+        "type": "Enhancer",
+        "uniques": ["[+2 Faith] from every [Mine]"]
+    },
+      {
+        "name": "Church Control",
+        "type": "Enhancer",
+        "uniques": ["[+5 Gold] for each global city following this religion"]
+    },
+      {
+        "name": "Church Branches",
+        "type": "Enhancer",
+        "uniques": ["[+5 Culture] for each global city following this religion"]
+    },
+        {
+        "name": "Find Him in the Stars",
+        "type": "Follower",
+        "uniques": ["[+5 Faith] from every [Observatory]"]
+    },
 ]
